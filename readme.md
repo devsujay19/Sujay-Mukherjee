@@ -44,6 +44,7 @@
 - Laravel
 - Ruby on Rails
 - Bootstrap
+- NextJS
 - NuxtJS
 - React Native
 - JQuery
